@@ -1,3 +1,4 @@
 # project1
-Hello everyone !
-This is my first project, thank you for your understand..
+Hello Everyone !
+<br>
+Coding and explanations of this project will be shared soon, thank you for your understand..
